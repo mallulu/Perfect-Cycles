@@ -1,0 +1,18 @@
+{
+  "name": "alraedah",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"    
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^2.0.1"
+  },
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
